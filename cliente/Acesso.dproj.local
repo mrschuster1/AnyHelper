@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/16 22:57:35.000.293,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/20 23:37:27.000.838,=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/20 23:37:42.000.162,D:\fontes\PROJETOS\Acesso.dproj=D:\fontes\PROJETOS\Project1.dproj</Transaction>
+    <Transaction>2022/08/20 23:37:47.000.838,D:\fontes\PROJETOS\uMain.pas=D:\fontes\PROJETOS\Unit1.pas</Transaction>
+    <Transaction>2022/08/20 23:37:47.000.838,D:\fontes\PROJETOS\uMain.dfm=D:\fontes\PROJETOS\Unit1.dfm</Transaction>
+    <Transaction>2022/08/20 23:38:03.000.320,D:\fontes\PROJETOS\anyhelper\cliente\uMain.pas=D:\fontes\PROJETOS\uMain.pas</Transaction>
+    <Transaction>2022/08/20 23:38:03.000.320,D:\fontes\PROJETOS\anyhelper\cliente\uMain.dfm=D:\fontes\PROJETOS\uMain.dfm</Transaction>
+    <Transaction>2022/08/20 23:38:09.000.885,D:\fontes\PROJETOS\anyhelper\cliente\Acesso.dproj=D:\fontes\PROJETOS\Acesso.dproj</Transaction>
+    <Transaction>2022/08/20 23:39:34.000.909,=D:\fontes\PROJETOS\anyhelper\uInfoPC.pas</Transaction>
+    <Transaction>2022/08/21 01:09:08.000.733,=D:\fontes\PROJETOS\anyhelper\cliente\Unit1.pas</Transaction>
+    <Transaction>2022/08/21 01:11:42.000.251,D:\fontes\PROJETOS\anyhelper\cliente\uDefNomes.dfm=D:\fontes\PROJETOS\anyhelper\cliente\Unit1.dfm</Transaction>
+    <Transaction>2022/08/21 01:11:42.000.251,D:\fontes\PROJETOS\anyhelper\cliente\uDefNomes.pas=D:\fontes\PROJETOS\anyhelper\cliente\Unit1.pas</Transaction>
+    <Transaction>2022/08/21 01:30:23.000.174,D:\fontes\PROJETOS\anyhelper\cliente\uConfig.pas=D:\fontes\PROJETOS\anyhelper\cliente\uDefNomes.pas</Transaction>
+    <Transaction>2022/08/21 01:30:23.000.174,D:\fontes\PROJETOS\anyhelper\cliente\uConfig.dfm=D:\fontes\PROJETOS\anyhelper\cliente\uDefNomes.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

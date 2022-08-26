@@ -1,0 +1,74 @@
+object fHelp: TfHelp
+  Left = 0
+  Top = 0
+  Caption = 'Ajuda'
+  ClientHeight = 280
+  ClientWidth = 514
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object cb: TUCaptionBar
+    Left = 0
+    Top = 0
+    Width = 514
+    Height = 25
+    Caption = '   Ajuda'
+    Color = 3750347
+    TabOrder = 0
+    CustomBackColor.Enabled = True
+    CustomBackColor.Color = 3618764
+    CustomBackColor.LightColor = 3618764
+    CustomBackColor.DarkColor = 3618764
+    ExplicitLeft = -122
+    ExplicitWidth = 569
+    object btnClose: TUQuickButton
+      Left = 467
+      Top = 0
+      Width = 47
+      Height = 25
+      Margins.Left = 0
+      Margins.Top = 0
+      Margins.Right = 30
+      Margins.Bottom = 0
+      Align = alRight
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -19
+      Font.Name = 'Segoe MDL2 Assets'
+      Font.Style = []
+      Font.Quality = fqClearTypeNatural
+      ParentFont = False
+      CustomBackColor.Enabled = False
+      CustomBackColor.Color = clBlack
+      CustomBackColor.LightColor = 13619151
+      CustomBackColor.DarkColor = 3947580
+      ButtonStyle = qbsQuit
+      Caption = #57610
+      ExplicitLeft = 400
+    end
+  end
+  object pnlMain: TUPanel
+    Left = 0
+    Top = 25
+    Width = 514
+    Height = 255
+    Align = alClient
+    Color = 15132390
+    showcaption = True
+    TabOrder = 1
+    CustomBackColor.Enabled = False
+    CustomBackColor.Color = 15132390
+    CustomBackColor.LightColor = 15132390
+    CustomBackColor.DarkColor = 2039583
+    ExplicitLeft = -122
+    ExplicitTop = -11
+    ExplicitWidth = 569
+    ExplicitHeight = 212
+  end
+end
